@@ -1,0 +1,6 @@
+﻿  Lab2.cpp
+C:\Users\cgrab\OneDrive\Documents\{ } Documents\Class Files\1- Data Structures\Lab 2\Lab2\Lab2.cpp(483,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\cgrab\OneDrive\Documents\{ } Documents\Class Files\1- Data Structures\Lab 2\Lab2\Lab2.cpp(453): warning C4717: 'operator==': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\cgrab\OneDrive\Documents\{ } Documents\Class Files\1- Data Structures\Lab 2\Lab2\Lab2.cpp(462): warning C4717: 'operator>': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\cgrab\OneDrive\Documents\{ } Documents\Class Files\1- Data Structures\Lab 2\Lab2\Lab2.cpp(471): warning C4717: 'operator<': recursive on all control paths, function will cause runtime stack overflow
+  Lab2.vcxproj -> C:\Users\cgrab\OneDrive\Documents\{ } Documents\Class Files\1- Data Structures\Lab 2\Lab2\x64\Debug\Lab2.exe

@@ -1,0 +1,7 @@
+﻿  Lab4.cpp
+C:\Users\cgrab\OneDrive\Documents\{ } Documents\Class Files\1- Data Structures\Lab 4\Lab4\Lab4.cpp(984,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\cgrab\OneDrive\Documents\{ } Documents\Class Files\1- Data Structures\Lab 4\Lab4\Lab4.cpp(496,22): warning C4101: 'i': unreferenced local variable
+C:\Users\cgrab\OneDrive\Documents\{ } Documents\Class Files\1- Data Structures\Lab 4\Lab4\Lab4.cpp(494,1): message : while compiling class template member function 'void LinkedList<Student>::bubbleSort(int)'
+C:\Users\cgrab\OneDrive\Documents\{ } Documents\Class Files\1- Data Structures\Lab 4\Lab4\Lab4.cpp(1551,37): message : see reference to function template instantiation 'void LinkedList<Student>::bubbleSort(int)' being compiled
+C:\Users\cgrab\OneDrive\Documents\{ } Documents\Class Files\1- Data Structures\Lab 4\Lab4\Lab4.cpp(1376,25): message : see reference to class template instantiation 'LinkedList<Student>' being compiled
+  Lab4.vcxproj -> C:\Users\cgrab\OneDrive\Documents\{ } Documents\Class Files\1- Data Structures\Lab 4\Lab4\x64\Debug\Lab4.exe
