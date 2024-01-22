@@ -1,2 +1,2 @@
-# Nitin-Data-Structures
- Data structures Lab Files for Nitin's Class.
+# Data-Structures-Labs
+ Data structures completed Lab implementations.
